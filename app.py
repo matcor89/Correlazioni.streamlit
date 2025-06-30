@@ -7,7 +7,7 @@ import datetime
 
 # Asset sample
 ASSETS = {
-    'Azioni': ['AAPL', 'MSFT', 'GOOGL', 'TSLA', 'AMZN', 'LDO'],
+    'Azioni': ['AAPL', 'MSFT', 'GOOGL', 'TSLA', 'AMZN', 'LDO.MI'],
     'ETF': ['SPY', 'QQQ', 'GLD', 'TLT', 'XLK', 'XLF', 'SPHB'],
     'Crypto': ['BTC-USD', 'ETH-USD', 'XRP-USD', 'LINK-USD', 'ADA-USD', 'SOL-USD'],
     'Valute': ['AUDCAD=X', 'AUDCHF=X', 'AUDJPY=X', 'AUDNZD=X', 'AUDUSD=X', 'CADCHF=X', 'CADJPY=X', 'CHFJPY=X', 'EURAUD=X', 'EURCAD=X', 'EURCHF=X', 'EURGBP=X', 'EURJPY=X', 'EURNZD=X', 'EURSEK=X', 'EURUSD=X', 'GBPAUD=X', 'GBPCAD=X', 'GBPCHF=X', 'GBPJPY=X', 'GBPNZD=X', 'GBPUSD=X', 'NZDCAD=X', 'NZDCHF=X', 'NZDJPY=X', 'NZDUSD=X', 'USDCAD=X', 'USDCHF=X', 'USDCNH=X', 'USDJPY=X', 'USDSEK=X', 'USDBRL=X'],
